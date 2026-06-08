@@ -19,7 +19,7 @@ My goal is to leverage Rust's memory safety, concurrency model, and performance 
 
 🚀 Featured Project
 
-🤖 [AI-Powered Smart Calorie Tracker Bot](https://github.com/YOUR_USERNAME/ai-calorie-tracker-bot)
+🤖 [AI-Powered Smart Calorie Tracker Bot](https://github.com/leezahava/ai-calorie-tracker-bot)
 An advanced, asynchronous Telegram bot designed to automate nutrition tracking using computer vision and LLMs. Instead of manually looking up food metrics, users can simply upload a photo of their meal.
 
 *   **Core Technical Highlights:**
